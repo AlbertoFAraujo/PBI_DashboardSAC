@@ -23,10 +23,6 @@ Base de dados: Dados gerados com o [Mockaroo - Random Data Generator and API Mo
 4. Deploy do projeto final e hospedagem no Power BI Online.
 <hr>
 
-### Tempo de Execução:
-
-O tempo estimado para a execução de todas as etapas foi de 3 dias.
-
 ### Projeto Final:
 
 ![Pagina 1](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/908f86d8-7e41-4f0c-bbf4-a369ce0bad21)
