@@ -23,6 +23,16 @@ Base de dados: Dados gerados com o [Mockaroo - Random Data Generator and API Mo
 4. Deploy do projeto final e hospedagem no Power BI Online.
 <hr>
 
+### Detalhes:
+
+O Dashboard SAC é composto por 4 painéis indicadores:
+
+- **Análise temporal:** Permite analisar o número total de atendimentos de chamados ao longo do tempo, filtrados por ano, com variações recorrentes em cada mês, trimestre ou dia. Os cards apresentam informações sobre o total de colaboradores atuantes, total de atendimentos e tempo médio de Atendimento (TMA), oferecendo controle do volume e visão do atendimento em diferentes escalas.
+- **Distribuição de chamados por tipo de atendimento:** Mostra a quantidade de atendimentos por tipo (chat, contato e e-mail), bem como sua distribuição nos estados. Destaca o total de atendimento por fila, percentual em relação ao total geral, tempo médio de atendimento na fila específica e percentual de variação em relação ao ano anterior. Facilita a tomada de decisão ao priorizar chamados e comparar o desempenho com o ano anterior.
+- **Análise de performance de colaborador:** Dedicado à análise individual de desempenho dos colaboradores, garantindo produtividade e qualidade. Apresenta métricas como total de atendimento, TMA, horas totais da jornada, variação do TMA ao longo do mês, total de atendimento por setor e taxas de finalização de chamados, permitindo uma gestão eficaz.
+- **Detalhamento:** Apresenta uma análise detalhada em forma de decision tree, oferecendo uma visão geral do total de atendimento dos chamados, segmentados por região, estado, setores, cliente, tipo de atendimento e status do chamado. Essa análise minuciosa facilita a identificação de tendências e insights para aprimorar o serviço de atendimento ao cliente
+<hr>
+
 ### Projeto Final:
 
 ![Pagina 1](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/908f86d8-7e41-4f0c-bbf4-a369ce0bad21)
