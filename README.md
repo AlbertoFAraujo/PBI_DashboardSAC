@@ -34,10 +34,11 @@ O Dashboard SAC é composto por 4 painéis indicadores:
 <hr>
 
 ### Projeto Final:
+![capa](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/fa1589bf-3cc6-4f77-be15-e32291e655a0)
+![p1](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/251de09c-ce6a-4d46-ac32-35d09519ccc9)
+![p2](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/c0d7ce74-064f-44a2-adb7-4c91efbb86ee)
+![p3](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/e48fd368-b979-4162-88ac-9a154508be7d)
+![p4](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/3d4979e3-48fe-48cf-b3e6-acd6449d64a6)
 
-![Pagina 1](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/908f86d8-7e41-4f0c-bbf4-a369ce0bad21)
-![Pagina 2](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/11fa8451-1e36-47bf-9026-934d9bdfe4e6)
-![Pagina 3](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/a0636d58-461e-4e52-b726-dcb85f3b6585)
-![Pagina 4](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/f9f0eb07-c135-4adc-9a6c-e2242d84d275)
-![Pagina 5](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/fdd5ecf5-06b6-453f-818b-e7cb22b1906c)
+
 
